@@ -83,7 +83,7 @@ module.exports = incrObj;
 },{}],3:[function(require,module,exports){
 var leafletStats = require('../');
 
-var map = L.mapbox.map('map', 'examples.map-9ijuk24y')
+var map = L.mapbox.map('map', 'examples.map-i86knfo3')
     .setView([40, -74.50], 9);
 
 var stats = leafletStats(map);
